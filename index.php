@@ -1,5 +1,7 @@
 <?php
 
+PORRA VAI SE LASCAR MEU
+
 session_start();
 
 #Base de dados
