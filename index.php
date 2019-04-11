@@ -1,5 +1,7 @@
 <?php
 
+TE AMO MANO, VC É LINDO
+
 session_start();
 
 #Base de dados
