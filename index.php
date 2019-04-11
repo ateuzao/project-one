@@ -28,3 +28,5 @@ switch ($pagina) {
 }
 
 include "footer.php";
+
+echo "Arquivo editado";
